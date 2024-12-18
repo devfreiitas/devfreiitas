@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Freitas 👋🏼
 
-[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@freitasfn_) [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/CqkzAcACc5) [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/fre1tasfn)
+[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@devfreiitas) [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/CqkzAcACc5) [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/fre1tasfn)
 
 [![Freitas GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=devfreiitas&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/devfreiitas/github-readme-stats#gh-dark-mode-only)
 
