@@ -13,4 +13,5 @@
 Sempre em busca de novos desafios e aprendizados na área de desenvolvimento.
 
 ### Últimos Projetos:
-- [Painel de Administração - Roblox](https://vimeo.com/1040234831?share=copy)<br/>
+- [Painel de Administração | CoreStar Studio - Roblox](https://vimeo.com/1040234831?share=copy)<br/>
+- [Demostração Lobby & Hud | JJ Studio - Roblox](https://vimeo.com/1040535062?share=copy)<br/>
