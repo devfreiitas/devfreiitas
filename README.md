@@ -1,16 +1,16 @@
-## Hi there 👋
+### Olá! Eu sou o Freitas 👋🏼
 
-<!--
-**devfreiitas/devfreiitas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@freitasfn_) [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/CqkzAcACc5) [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/fre1tasfn)
 
-Here are some ideas to get you started:
+[![Freitas GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=devfreiitas&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/devfreiitas/github-readme-stats#gh-dark-mode-only)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tecnologias que domino atualmente
+
+<div style="display: inline_block"><br/>
+    <img align="center" alt="lua" src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white">
+</div><br/>
+
+Sempre em busca de novos desafios e aprendizados na área de desenvolvimento.
+
+### Últimos Projetos:
+- [Painel de Administração - Roblox](https://vimeo.com/1040234831?share=copy)<br/>
