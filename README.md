@@ -16,3 +16,4 @@ Sempre em busca de novos desafios e aprendizados na área de desenvolvimento.
 - [Painel de Administração | CoreStar Studio - Roblox](https://vimeo.com/1040234831?share=copy)<br/>
 - [Demostração Lobby & Hud | JJ Studio - Roblox](https://vimeo.com/1040535062?share=copy)<br/>
 - [LineUp | CoreStar Studio - Roblox](https://vimeo.com/1043209198?share=copy)<br/>
+- [Sistema de Replay | CoreStar Studio - Roblox](https://vimeo.com/1045127139?share=copy)<br/>
